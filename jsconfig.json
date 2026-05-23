@@ -2,10 +2,11 @@
   "compilerOptions": {
     "target": "ES2020",
     "module": "commonjs",
-    "checkJs": true,
+    "checkJs": false,
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
-    "baseUrl": "."
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0"
   },
   "include": [
     "automation/**/*.js"
