@@ -121,12 +121,11 @@ automation/
 dumphero-qa-assessment/
 │
 ├── docs/
-│   ├── QA_Test_Strategy.md
-│   ├── Functional_Test_Cases.xlsx
+│   ├── Project Structure & Sample ScreenShots
+│   ├── DumpHero TestCases
 │   ├── Edge_Cases.md
-│   ├── API_Validation_Checklist.md
-│   ├── Security_Testing.md
-│   └── Bug_Report_Samples.md
+│   ├── DumpHero API TestCases
+│  
 │
 ├── automation/
 │   ├── pages/
@@ -136,7 +135,7 @@ dumphero-qa-assessment/
 │   ├── reports/
 │   └── screenshots/
 │
-├── api-testing/
+├── api-testing/ (Need to be continue)
 │
 └── README.md
 ```
